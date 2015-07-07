@@ -14,6 +14,9 @@
 		D60A7EAE1B45F56200989AC3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D60A7EAD1B45F56200989AC3 /* Images.xcassets */; };
 		D60A7EB11B45F56200989AC3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D60A7EAF1B45F56200989AC3 /* LaunchScreen.xib */; };
 		D60A7EBD1B45F56200989AC3 /* Walkthrough2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = D60A7EBC1B45F56200989AC3 /* Walkthrough2Tests.m */; };
+		D60A7EC81B45F6CF00989AC3 /* pinkbackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D60A7EC61B45F6CF00989AC3 /* pinkbackground.jpg */; };
+		D60A7EC91B45F6CF00989AC3 /* bluebackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D60A7EC71B45F6CF00989AC3 /* bluebackground.jpg */; };
+		D60A7ECB1B45F7CA00989AC3 /* whitebackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D60A7ECA1B45F7CA00989AC3 /* whitebackground.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +43,9 @@
 		D60A7EB61B45F56200989AC3 /* Walkthrough2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Walkthrough2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D60A7EBB1B45F56200989AC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D60A7EBC1B45F56200989AC3 /* Walkthrough2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Walkthrough2Tests.m; sourceTree = "<group>"; };
+		D60A7EC61B45F6CF00989AC3 /* pinkbackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pinkbackground.jpg; sourceTree = "<group>"; };
+		D60A7EC71B45F6CF00989AC3 /* bluebackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bluebackground.jpg; sourceTree = "<group>"; };
+		D60A7ECA1B45F7CA00989AC3 /* whitebackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebackground.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +94,9 @@
 				D60A7EAA1B45F56200989AC3 /* Main.storyboard */,
 				D60A7EAD1B45F56200989AC3 /* Images.xcassets */,
 				D60A7EAF1B45F56200989AC3 /* LaunchScreen.xib */,
+				D60A7EC61B45F6CF00989AC3 /* pinkbackground.jpg */,
+				D60A7EC71B45F6CF00989AC3 /* bluebackground.jpg */,
+				D60A7ECA1B45F7CA00989AC3 /* whitebackground.png */,
 				D60A7EA01B45F56200989AC3 /* Supporting Files */,
 			);
 			path = Walkthrough2;
@@ -202,6 +211,9 @@
 				D60A7EAC1B45F56200989AC3 /* Main.storyboard in Resources */,
 				D60A7EB11B45F56200989AC3 /* LaunchScreen.xib in Resources */,
 				D60A7EAE1B45F56200989AC3 /* Images.xcassets in Resources */,
+				D60A7EC91B45F6CF00989AC3 /* bluebackground.jpg in Resources */,
+				D60A7EC81B45F6CF00989AC3 /* pinkbackground.jpg in Resources */,
+				D60A7ECB1B45F7CA00989AC3 /* whitebackground.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
